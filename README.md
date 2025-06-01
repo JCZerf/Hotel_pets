@@ -10,7 +10,7 @@ Esse é o app mobile em Flutter que desenvolvi para o desafio técnico do Pet Ho
 - Modal de detalhes completo ao clicar no pet.
 - Cadastro e edição de pets via formulário.
 - Exclusão de pets com confirmação.
-- Interface simples, responsiva e intuitiva.
+- Interface simples e intuitiva.
 - Integração com backend via API REST.
 
 ---
@@ -53,7 +53,6 @@ flutter run
 - `lib/models` - Modelos de dados (PetModel)
 - `lib/services` - Comunicação com API (ApiService)
 - `lib/screens` - Telas do app (lista, formulário)
-- `lib/widgets` - Componentes reutilizáveis (se houver)
 - `main.dart` - Entrada principal do app
 
 
