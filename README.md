@@ -55,4 +55,9 @@ flutter run
 - `lib/screens` - Telas do app (lista, formulário)
 - `main.dart` - Entrada principal do app
 
+## Para realizar o login no app
+
+**Email: admin@hotel.com**
+**Senha: 123**
+
 
