@@ -60,4 +60,13 @@ flutter run
 **Email: admin@hotel.com**
 **Senha: 123**
 
+## 🎥 Apresentação do Projeto
+
+Este repositório foi desenvolvido como parte de um teste técnico para a empresa **Pluritech**, com foco na construção de uma API RESTful utilizando **Node.js**, **Express** e **SQLite**.
+
+📌 **Apresentação da API (Back-end - Node.js):**  
+[🔗 Clique aqui para assistir no YouTube](https://youtu.be/MX1HJ7ImpgE)
+
+🛠 A aplicação **mobile Flutter** (Front-end) será demonstrada em um segundo vídeo
+
 
